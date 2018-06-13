@@ -24,4 +24,5 @@ function iLoveTheBeatles(x) {
   do {z[j] = "I love the Beatles!"
   j++
     } while (j <= x)
+    return z
 }
