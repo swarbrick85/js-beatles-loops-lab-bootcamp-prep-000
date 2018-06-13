@@ -21,5 +21,5 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(x) {
   var j = 0
   do {return "I love the Beatles!"
-  j++} 
+  j++} while (j <= x)
 }
