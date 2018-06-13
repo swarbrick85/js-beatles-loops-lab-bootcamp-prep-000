@@ -25,5 +25,5 @@ function iLoveTheBeatles(x) { if (x < 15) {
   j++
     } while (j <= x)
     return z
-} else {
+} else {return "I love the Beatles!"}
 }
