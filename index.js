@@ -18,4 +18,8 @@ function johnLennonFacts(facts) {
   }
   return z
 }
-function
+function iLoveTheBeatles(x) {
+  var j = 0
+  do {return "I love the Beatles!"
+  j++} 
+}
