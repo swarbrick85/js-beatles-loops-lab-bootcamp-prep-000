@@ -18,11 +18,12 @@ function johnLennonFacts(facts) {
   }
   return z
 }
-function iLoveTheBeatles(x) { if (x < 15)
+function iLoveTheBeatles(x) { if (x < 15) {
   var z = []
   var j = 0
   do {z[j] = "I love the Beatles!"
   j++
     } while (j <= x)
     return z
+} else {
 }
