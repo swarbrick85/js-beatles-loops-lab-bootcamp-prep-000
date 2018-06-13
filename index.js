@@ -18,7 +18,7 @@ function johnLennonFacts(facts) {
   }
   return z
 }
-function iLoveTheBeatles(x) {
+function iLoveTheBeatles(x) { if (x < 15)
   var z = []
   var j = 0
   do {z[j] = "I love the Beatles!"
