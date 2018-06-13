@@ -19,7 +19,9 @@ function johnLennonFacts(facts) {
   return z
 }
 function iLoveTheBeatles(x) {
+  var z = []
   var j = 0
-  do {return "I love the Beatles!"
-  j++} while (j <= x)
+  do {z[j] = "I love the Beatles!"
+  j++
+    } while (j <= x)
 }
